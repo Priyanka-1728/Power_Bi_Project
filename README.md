@@ -11,8 +11,8 @@ This dashboard helps the Zomato to understand their customers better. It helps t
 
 ### Steps Followed :-
 
-- Step 1 : Opens the Power BI Desktop.
-- Step 2 : Click on Getdata and then choose Excel workbook , from this you can able to import .xlsx file
+- Step 1 : Open the Power BI Desktop.
+- Step 2 : Click on Getdata and then choose Excel workbook , from this you can able to import .xlsx file.
 - Step 3 : Loaded the 5 xlsx files into Power BI Desktop which are
   - food.xlsx,menu.xlsx,orders.xlsx,restaurant.xlsx,users.xlsx.
 - Step 4 : After loading the files choose the Transform option by that a new window opens Power Query Editor through which you can do the data preprocessing.
@@ -22,7 +22,7 @@ and expanding the r_id column and select city then removed the null values from 
 
 ## Dashboard 1 : INDEX :-
 
--Step 1 : Created a index page and inside that created an button named as dashboard which navigates to the Overview dashboard
+-Step 1 : Created a index page and inside that created an button named as dashboard which navigates to the Overview dashboard.
 Snapshot of index page 
 ![Screenshot (129)](https://github.com/user-attachments/assets/cfda1e32-3b7e-4b05-8557-af73de6985c7)
 
